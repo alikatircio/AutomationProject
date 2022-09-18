@@ -1,0 +1,12 @@
+[
+  {
+    "key": "MENU_more",
+    "value": "//span[text()='More']/parent::a[@id='mega-menu-1']",
+    "type": "xpath"
+  },
+  {
+    "key": "MENU_career",
+    "value": "li[class*='has-children'] a[href*='career']",
+    "type": "css"
+  }
+]

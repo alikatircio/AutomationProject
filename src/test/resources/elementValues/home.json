@@ -1,0 +1,7 @@
+[
+  {
+    "key": "HOME_acceptAll_cookie",
+    "value": "a[class*='cookie_action_close_header'][data-cli_action='accept_all']",
+    "type": "css"
+  }
+]

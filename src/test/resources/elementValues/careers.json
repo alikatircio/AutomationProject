@@ -1,0 +1,87 @@
+[
+  {
+    "key": "CAREERS_teams",
+    "value": "career-find-our-calling",
+    "type": "id"
+  },
+  {
+    "key": "CAREERS_teams_items",
+    "value": "#career-find-our-calling div[class*='job-item']",
+    "type": "css"
+  },
+  {
+    "key": "CAREERS_teams_items_title",
+    "value": "#career-find-our-calling div[class*='job-item'] h3",
+    "type": "css"
+  },
+  {
+    "key": "CAREERS_teams_load_more",
+    "value": "//a[text()='See all teams']",
+    "type": "xpath"
+  },
+  {
+    "key": "CAREERS_locations",
+    "value": "career-our-location",
+    "type": "id"
+  },
+  {
+    "key": "CAREERS_locations_destinations",
+    "value": "#location-slider li",
+    "type": "css"
+  },
+  {
+    "key": "CAREERS_life_insider_title",
+    "value": "section[data-id='a8e7b90'] h2",
+    "type": "css"
+  },
+  {
+    "key": "CAREERS_life_insider_desc",
+    "value": "section[data-id='a8e7b90'] p",
+    "type": "css"
+  },
+  {
+    "key": "CAREERS_see_allQA_jobs",
+    "value": "a[href*='qualityassurance']",
+    "type": "css"
+  },
+  {
+    "key": "CAREERS_filter_department",
+    "value": "select2-filter-by-department-container",
+    "type": "id"
+  },
+  {
+    "key": "CAREERS_location_dropdown",
+    "value": "select2-filter-by-location-container",
+    "type": "id"
+  },
+  {
+    "key": "CAREERS_location_dropdown_option",
+    "value": "#select2-filter-by-location-results li",
+    "type": "css"
+  },
+  {
+    "key": "CAREERS_filter_location",
+    "value": "filter-by-location",
+    "type": "id"
+  },
+  {
+    "key": "CAREERS_job_position_title",
+    "value": "#jobs-list p[class*='position-title']",
+    "type": "css"
+  },
+  {
+    "key": "CAREERS_job_position_location",
+    "value": "#jobs-list div[class*='position-location']",
+    "type": "css"
+  },
+  {
+    "key": "CAREERS_job_position_department",
+    "value": "#jobs-list span[class*='position-department']",
+    "type": "css"
+  },
+  {
+    "key": "CAREERS_job_position_apply",
+    "value": "#jobs-list a",
+    "type": "css"
+  }
+]

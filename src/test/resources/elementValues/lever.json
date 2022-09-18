@@ -1,0 +1,12 @@
+[
+  {
+    "key": "LEVER_position_title",
+    "value": "div[class='posting-headline'] h2",
+    "type": "css"
+  },
+  {
+    "key": "LEVER_position_categories",
+    "value": "div[class='posting-categories']",
+    "type": "css"
+  }
+]
